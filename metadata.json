@@ -1,0 +1,6 @@
+{
+  "name": "JCG Systems Hub",
+  "description": "Technical architecture, API registry, and software engine deployment hub engineered by Jose Carlos Garcia (JCG.IO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
